@@ -121,10 +121,7 @@ function direction(event){
 function crash(head){
  
     if(gameover){
-     //   ctx.fillStyle = "white" ;
-      //  ctx.fillRect(snake[1].x,snake[1].y ,box,box);
-    //    ctx.strokeStyle = "red";
-      //  ctx.strokeRect(snake[1].x,snake[1].y,box,box);
+    
 
         if(flag){
         ctx.fillStyle = "red" ;
